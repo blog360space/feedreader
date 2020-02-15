@@ -1,0 +1,49 @@
+Grabbing Feed on 2019-08-Sat 17:28:04
+Successfully grab 1 url(s) in 0.26 second(s)
+
+Grabbing Feed on 2019-08-Sat 17:28:57
+There has the flowing error whe grabbing feed1 in 0seconds
+Array
+(
+    [,] => Grab feed fail
+)
+
+
+Grabbing Feed on 2019-08-Sat 17:30:08
+There has the flowing error whe grabbing feed1 in 0seconds
+Array
+(
+    [,] => Grab feed fail
+)
+
+
+Grabbing Feed on 2019-08-Sat 17:30:11
+There has the flowing error whe grabbing feed1 in 0seconds
+Array
+(
+    [,] => Grab feed fail
+)
+
+
+Grabbing Feed on 2019-08-Sat 17:30:30
+There has the flowing error whe grabbing feed1 in 0seconds
+Array
+(
+    [,] => Grab feed fail
+)
+
+
+Grabbing Feed on 2019-08-Sat 17:30:56
+Successfully grab 2 url(s) in 0.91 second(s)
+
+Grabbing Feed on 2019-08-Sat 17:31:07
+Successfully grab 2 url(s) in 0.68 second(s)
+
+Grabbing Feed on 2019-08-Sat 17:31:14
+There has the flowing error whe grabbing feed2 in 0.57seconds
+Array
+(
+    [https://thanhnien.vn/rss/chinh-tri-xa-hoi/doc-quyen.rssdddd] => Grab feed fail
+)
+
+
